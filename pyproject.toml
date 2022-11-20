@@ -8,12 +8,12 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 opencv-python = "^4.6.0.66"
-jupyter = "^1.0.0"
-notebook = "^6.5.1"
 pyobjc-core = "^8.5.1"
 pyobjc = "^8.5.1"
 pyautogui = "^0.9.53"
 setuptools = "^65.5.0"
+easyocr = "^1.6.2"
+matplotlib = "^3.6.2"
 
 
 [build-system]
